@@ -24,6 +24,5 @@ var usuario = prompt("Cual es tu peso?"); //lee la cadena
         peso_final = parseInt(peso_final);
         document.write("Tu peso en " + nombre + " seria <strong>" + peso_final + " kilos</strong>");
 
-        
         //parseInt es para convertir la variable en un real
         //parseFloat es para convertir la variable a decimales 

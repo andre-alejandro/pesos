@@ -5,8 +5,8 @@
         var g_marte = 3.7;
         var g_jupiter = 24.8;
         var g_luna = 1.62;
-        var g_sol = 274
-        var g_saturno = 10.4
+        var g_sol = 274;
+        var g_saturno = 10.4;
         var peso_final;
         var nombre ;
         if (planeta == 1)
